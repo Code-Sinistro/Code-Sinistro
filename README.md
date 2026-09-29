@@ -52,13 +52,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/gith
 ## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/Code-Sinistro">
-    <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Code-Sinistro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Sinistro&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Code-Sinistro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  alt="Estatísticas do GitHub de Marcos Paulo"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Sinistro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+  alt="Linguagens mais utilizadas"
+  height="180"
+/>
+
 </div>
 
 ---
