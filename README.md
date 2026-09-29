@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor | Automações | Desenvolvimento Assistido por IA
 
-Sou desenvolvedor focado na criação de **aplicações web, automações e soluções personalizadas**, utilizando Inteligência Artificial e agentes de desenvolvimento para acelerar o processo de criação, testes e evolução de projetos.
+Sou desenvolvedor focado na criação de **aplicações web, automações e soluções personalizadas**, utilizando Inteligência Artificial e agentes de desenvolvimento para acelerar a criação, os testes e a evolução dos meus projetos.
 
 Gosto de transformar **ideias e problemas reais em soluções funcionais**, explorando novas tecnologias e aprimorando constantemente minhas habilidades em programação.
 
@@ -14,78 +14,37 @@ Gosto de transformar **ideias e problemas reais em soluções funcionais**, expl
 - 🤖 Desenvolvimento assistido por Inteligência Artificial
 - ⚙️ Criação de automações e ferramentas personalizadas
 - 🔌 Integração de APIs e serviços
-- 🧠 Uso de agentes de IA no desenvolvimento de software
+- 🧠 Utilização de agentes de IA no desenvolvimento
 - 🧪 Prototipagem, testes, debugging e melhoria contínua
-- 📚 Sempre aprendendo novas tecnologias
+- 📚 Aprendizado constante de novas tecnologias
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias que utilizo
 
-<div align="left">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="HTML, CSS, JavaScript, Git e GitHub" />
+</p>
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+**HTML5 • CSS3 • JavaScript • Git • GitHub**
 
-<img align="center" alt="HTML5" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+### 🤖 Desenvolvimento com IA
 
-<img align="center" alt="CSS3" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<img align="center" alt="GitHub" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-</div>
-
-<br>
-
-### 🧠 Desenvolvimento com IA
-
-`AI-Assisted Development` • `Prompt Engineering` • `Agentes de IA` • `Automação` • `Prototipagem`
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Code-Sinistro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-  alt="Estatísticas do GitHub de Marcos Paulo"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Sinistro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-  height="180"
-/>
-
-</div>
+**AI-Assisted Development • Prompt Engineering • Agentes de IA • Automação • Prototipagem**
 
 ---
 
 ## 🧩 Como eu desenvolvo
 
-💡 **Ideia**
-→ 📋 **Planejamento**
-→ 🤖 **IA & Agentes**
-→ 💻 **Implementação**
-→ 🧪 **Testes**
-→ 🔧 **Refinamento**
-→ 🚀 **Deploy**
+**💡 Ideia → 📋 Planejamento → 🤖 IA & Agentes → 💻 Implementação → 🧪 Testes → 🔧 Refinamento → 🚀 Deploy**
 
-Utilizo Inteligência Artificial como ferramenta para potencializar o desenvolvimento, mantendo o foco em **resolver problemas, testar soluções e transformar conceitos em aplicações funcionais**.
+Utilizo Inteligência Artificial como ferramenta para potencializar meu desenvolvimento, mantendo o foco em **resolver problemas, testar soluções e transformar conceitos em aplicações funcionais**.
 
 ---
 
 ## 🚀 Projetos
 
-Aqui você encontrará projetos envolvendo:
+Meus projetos envolvem principalmente:
 
 - 🌐 Aplicações Web
 - ⚙️ Sistemas de Automação
@@ -94,31 +53,37 @@ Aqui você encontrará projetos envolvendo:
 - 🛠️ Ferramentas personalizadas
 - 🧪 Estudos e experimentos com novas tecnologias
 
-Confira meus repositórios para conhecer os projetos em detalhes.
+Explore meus repositórios para conhecer os projetos, códigos e experimentos que estou desenvolvendo.
+
+---
+
+## 🎯 Atualmente
+
+Estou aprimorando meus conhecimentos em **desenvolvimento de software, automação e uso de Inteligência Artificial aplicada à programação**, utilizando projetos práticos como principal forma de aprendizado e evolução.
 
 ---
 
 ## 📫 Contato
 
-<div align="left">
+<p align="left">
 
 <a href="https://www.instagram.com/mp.rodrigues_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:marcosprno@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/marcos-paulo-79b39832a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Code-Sinistro" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</div>
+</p>
 
 ---
 
